@@ -1,0 +1,15 @@
+dnspython==2.2.1
+greenlet==2.0.1
+numpy==1.24.0
+pandas==1.5.2
+pip==22.3.1
+pymongo==4.3.3
+PyMySQL==1.0.2
+python-dateutil==2.8.2
+python-decouple==3.6
+python-dotenv==0.21.0
+pytz==2022.7
+setuptools==65.6.3
+six==1.16.0
+SQLAlchemy==1.4.45
+wheel==0.38.4
