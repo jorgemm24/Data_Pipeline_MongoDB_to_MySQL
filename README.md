@@ -3,9 +3,10 @@
 Este proyecto consiste en extraer la información de una base de datos MongoDB (NoSQL), procesarlo con python y almacenarlo en una base de datos MySQL.
 Finalmente se muestra la data en un Power BI.
 
+
 ## Arquitectura
 
-[![arquitectura.png](https://i.postimg.cc/rmNGyhxK/arquitectura.png)](https://postimg.cc/phy5qJ0H)
+[![arquitectura.png](https://i.postimg.cc/htLkGwcj/arquitectura.png)](https://postimg.cc/rDpnnfdX)
 
 ## Herramientas utilizadas
 - MongoDB, Robot 3T, VSCODE, AWS RDS MySQL, MySQL Workbench, Power BI
@@ -29,6 +30,9 @@ Finalmente se muestra la data en un Power BI.
 
 ###### Colleciones -> transactions
 [![2-3-collections-transactions.png](https://i.postimg.cc/d01mQRnB/2-3-collections-transactions.png)](https://postimg.cc/w1Cs0mCy)
+
+###### Main.py -> terminal
+[![5-Main.png](https://i.postimg.cc/ZK7cxxHc/5-Main.png)](https://postimg.cc/rK4x8Wv0)
 
 ###### MySQL -> Base de datos y Tablas
 [![3-My-SQL-Base-de-datos-and-schema.png](https://i.postimg.cc/4dccnWcz/3-My-SQL-Base-de-datos-and-schema.png)](https://postimg.cc/34KNcCnR)
