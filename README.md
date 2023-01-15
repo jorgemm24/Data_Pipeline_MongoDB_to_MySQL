@@ -8,7 +8,7 @@ Finalmente se muestra la data en un Power BI.
 
 [![arquitectura.png](https://i.postimg.cc/htLkGwcj/arquitectura.png)](https://postimg.cc/rDpnnfdX)
 
-## Herramientas utilizadas
+## Tecnologias y herramientas utilizadas
 - MongoDB, Robot 3T, VSCODE, AWS RDS MySQL, MySQL Workbench, Power BI
 
 ![aws](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat-square) ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flat-square) ![python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat-square) ![mongo](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square) ![json](https://img.shields.io/badge/-JSON-000000?logo=JSON&logoColor=white&style=flat-square) ![RDS](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=Amazon-RDS&logoColor=white&style=flat-square) ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square) ![power-bi](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat-square)
